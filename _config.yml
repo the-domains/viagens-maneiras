@@ -1,8 +1,20 @@
 layout_spectrum: 0.8962901
-typography_spectrum: 0.4399945
+name: Viagens Maneiras
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.1528248
   brandStrength: 0.8134266
+  lightness: 0.2858347
   saturation: 0.5623115
   rhythmicContrast: 0.8978443
   brandColors:
@@ -11,4 +23,4 @@ color:
     - '#424242'
     - '#C6C6C6'
     - '#888888'
-name: Viagens Maneiras
+typography_spectrum: 0.10371
