@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Viagens Maneiras]]></title>
         <description><![CDATA[Viagens Maneiras]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/viagens-maneiras/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 03:28:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 03:30:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/viagens-maneiras/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Logo]]></title>
+            <description><![CDATA[<article><h1>Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f5f51c26bab0736cb84d6a42a0517738b7ada55.png"></article>]]></description>
+            <link>https://thegrid.ai/viagens-maneiras/logo/index.html</link>
+            <guid isPermaLink="false">fdf0e74c-ed4a-4913-84cc-9ed2986f7558</guid>
+            <pubDate>Mon, 07 Mar 2016 03:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[.:. Viagens Maneiras .:.]]></title>
             <description><![CDATA[<article><h1>&period;&colon;&period; Viagens Maneiras &period;&colon;&period;</h1></article>]]></description>
-            <link>undefined-viagens-maneiras-/index.html</link>
+            <link>https://thegrid.ai/viagens-maneiras/-viagens-maneiras-/index.html</link>
             <guid isPermaLink="false">8988eea0-5154-4eed-a1dd-23fd1292c7e9</guid>
             <pubDate>Mon, 07 Mar 2016 03:28:40 GMT</pubDate>
         </item>
