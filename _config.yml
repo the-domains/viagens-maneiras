@@ -1,17 +1,5 @@
 layout_spectrum: 0.8962901
 name: Viagens Maneiras
-typography_spectrum: 0.118887
-color:
-  brandStrength: 0.8134266
-  saturation: 0.5623115
-  brandColors:
-    - '#000000'
-    - '#FEFEFE'
-    - '#424242'
-    - '#C6C6C6'
-    - '#888888'
-  lightness: 0.3937605
-  rhythmicContrast: 0.8978443
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+color:
+  brandStrength: 0.7748735
+  lightness: 0.6214165
+  saturation: 0.7023609
+  rhythmicContrast: 0.6922429
+  brandColors:
+    - '#000000'
+    - '#FEFEFE'
+    - '#424242'
+    - '#C6C6C6'
+    - '#888888'
+typography_spectrum: 0
