@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Viagens Maneiras]]></title>
+        <description><![CDATA[Viagens Maneiras]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 18:47:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Praia]]></title>
+            <description><![CDATA[<article><h1>Praia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4d95c1c20c6db660b1a8a164067d6e6c522054a.gif"></article>]]></description>
+            <link>undefinedpraia/index.html</link>
+            <guid isPermaLink="false">fd5e3960-a142-4a11-a6b9-d82839d76fe2</guid>
+            <pubDate>Wed, 30 Mar 2016 18:47:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
